@@ -1,0 +1,10 @@
+.column-full {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.logo,
+.favorites.button {
+  display: inline-block;
+}
